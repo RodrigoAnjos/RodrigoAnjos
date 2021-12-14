@@ -8,21 +8,19 @@
 - 💞️ I’m looking to collaborate on Instrumentation Hardware projects
 
 
-### Coonect with me:
+### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="ADS" width="26px" src="https://rahsoft.s3.amazonaws.com/wp-content/uploads/2017/10/25045103/Keysight-Advanced-Design-System-ADS-Basics-and-Applications-RAHRF209-L-min1.jpg" />][keysighADS]
+[<img align="left" alt="KiCAD" width="26px" src="https://www.kicad.org/img/kicad_logo_small.png" />][KiCAD]
+
 
 <br />
 <br />
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
-
-
-<!---
-RodrigoAnjos/RodrigoAnjos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[linkedin]: linkedin.com/in/rodrigo-anjos-359a2b140
+[keysighADS]: https://www.keysight.com/zz/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html
+[KiCAD]: https://www.kicad.org/
